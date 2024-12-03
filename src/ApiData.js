@@ -51,7 +51,7 @@ const ApiData = () => {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center p-4 bg-pink-100 min-h-screen">
+    <div className="flex flex-col items-center justify-center p-4 bg-green-200 min-h-screen">
       <h1 className="text-2xl font-bold text-gray-800 mb-4">Shoko's Rank is😛</h1>
       <div className="flex items-center justify-center">
         <img
